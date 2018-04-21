@@ -1,2 +1,2 @@
 # waowao
-$\boldsymbol{\hat y} = \boldsymbol{W} \boldsymbol{x}$
+$\bold symbol{\hat y} = \bold symbol{W} \bold symbol{x}$
